@@ -1,4 +1,4 @@
-Test fixtures used in running tests for mcp-server-webcrawl-.
+Test fixtures used in running mcp-server-webcrawl tests.
 
 Each db includes two sites/projects, crawled using defaults from various web crawlers.
 
